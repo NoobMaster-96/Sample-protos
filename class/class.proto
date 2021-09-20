@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "student/student.proto";
+
+package class;
+
+message Class {
+  string std = 1;
+  repeated student.Student students = 2;
+}

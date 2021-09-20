@@ -1,2 +1,2 @@
 # Sample-protos
-Contains sample protos
+This repo contains sample proto files.

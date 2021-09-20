@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-package student;
-
-message Student {
-  string name = 1;
-  int32 rollno = 2;
-}
